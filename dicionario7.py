@@ -1,5 +1,5 @@
 import sys
-'''
+
 # Questão 1
 
 dic = {}
@@ -77,7 +77,7 @@ print(f"A maior nota é {maior_nota}")
 print(f"A menor nota é {menor_nota}")
 print(f"A média da turma é {media}")
 
-# Questão 3'''
+# Questão 3
 
 filmes = {}
 
