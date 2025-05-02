@@ -4,9 +4,9 @@ carros["Marca"] = "Fiat"
 print(carros["Marca"])
 
 funcionario = {"12345678":
-              {"nome": "Matheus", "idade": 27, "cidade": "Petrolina"},
+              {"nome": "Matheus", "idade": 27, "cidade": "liubliu"},
                "12345677": 
-              {"nome": "Matheus2", "idade": [272, 455, 456], "cidade": "Petrolina2"}}
+              {"nome": "Matheus2", "idade": [272, 455, 456], "cidade": "liubliu2"}}
 
 print(funcionario["12345677"]["nome"])
 
